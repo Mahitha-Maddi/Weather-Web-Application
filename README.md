@@ -1,6 +1,3 @@
-# Weather-Web-Application
-React JS 
-<hr>
 <h1>5-Day Weather Application</h1>
 <hr>
 This project was bootstrapped with Create React App.
